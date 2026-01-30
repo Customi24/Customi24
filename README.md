@@ -8,7 +8,7 @@
 **Como contactarme:** mauricio@gmail.com
 **Pronombres:** El
 **Dato curioso:** Los aguacates maduran mas rapido con platanos
-**Mi setup**
+**Mi setup**     
 **Ultimo libro:** El arte de que te importe un carajo
 **Meta para este año:** Correr 10 km seguidos
 **Herramienta favorita:** Visual Studio Code
